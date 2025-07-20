@@ -1,0 +1,1 @@
+The classic Sonic Game by SEGA recreated in C++ using the SFML library and object oriented programming.
